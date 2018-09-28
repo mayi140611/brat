@@ -61,7 +61,7 @@
       <div>
         <div>
           <fieldset id="no_document_message">
-            <h1 class="unselectable">No document selected</h1>
+            <h1 class="unselectable">No document selected1:</h1>
             <p class="unselectable">To select a document:</p>
             <ul>
               <li class="unselectable">press the <strong>TAB</strong> key, or</li>
@@ -119,12 +119,12 @@
       <div id="pulldown" class="unselectable ui-widget-content">
         <div id="pulldown_padder">
           <div>
-            <input id="auth_button" type="button" value="Login"/>
-            <input id="collection_browser_button" type="button" value="Collection" tabindex="-1" title="Open Collection Browser (Tab)"/>
-            <input id="data_button" type="button" value="Data" tabindex="-1" title="Import, Export Data; Manage Collection"/>
+            <input id="auth_button" type="button" value="登录"/>
+            <input id="collection_browser_button" type="button" value="文集" tabindex="-1" title="Open Collection Browser (Tab)"/>
+            <input id="data_button" type="button" value="数据管理" tabindex="-1" title="Import, Export Data; Manage Collection"/>
             <input id="search_button" type="checkbox" class="login" value="true" tabindex="-1"/><label id="search_button_label" for="search_button" title="Search text and annotations">Search</label><input id="clear_search_button" type="button" value="✕" tabindex="-1" title="Clear search" style="display: none"/>
             <!--<input id="undo_button" type="button" class="login" value="Undo" tabindex="-1"/>-->
-            <input id="options_button" type="button" value="Options" tabindex="-1" title="Set Visual, Annotation and Network Options"/>
+            <input id="options_button" type="button" value="选项" tabindex="-1" title="Set Visual, Annotation and Network Options"/>
           </div>
           <!-- Dummy span, fixes visual glitch (issue #535). TODO: better fix -->
           <span class="document_edit_time unselectable">&nbsp;</span>
@@ -521,18 +521,18 @@
     <!-- Span dialog (view only) -->
     <form id="viewspan_form" class="dialog" title="Span">
       <fieldset id="viewspan_selected_fset">
-        <legend>Text</legend>
+        <legend>文本</legend>
         <a target="brat_linked" id="viewspan_highlight_link" href="#">Link</a>
         <div id="viewspan_selected"/>
       </fieldset>
 
       <fieldset id="viewspan_search_fieldset">
-        <legend>Search</legend>
+        <legend>查找</legend>
         <div id="viewspan_search_links"/>
       </fieldset>
 
       <fieldset>
-        <legend>Notes</legend>
+        <legend>注释</legend>
         <input id="viewspan_notes" class="borderless" readonly="readonly"/>
       </fieldset>
     </form>
@@ -553,7 +553,7 @@
       <fieldset>
         <div id="entity_and_event_wrapper" class="split_wrapper">
           <div id="span_entity_section" class="wrapper_half_left">
-            <div id="entity_label" class="label-like">Entity type</div>
+            <div id="entity_label" class="label-like">实体类型</div>
             <div id="entity_types" class="scroll_wrapper_upper">
               <div class="scroller"/> 
             </div>
@@ -561,17 +561,17 @@
                  divs they logically belong to prevent scrollers
                  overflowing them. -->
             <div id="entity_attribute_label" 
-                 class="label-like wrapper_lower_label">Entity attributes</div>
+                 class="label-like wrapper_lower_label">实体属性</div>
             <div id="entity_attributes" class="scroll_wrapper_lower">
               <div class="scroller small-buttons"/> 
             </div>
           </div><div id="span_event_section" class="wrapper_half_right">
-            <div id="event_label" class="label-like">Event type</div>
+            <div id="event_label" class="label-like">事件类型</div>
             <div id="event_types" class="scroll_wrapper_upper">
               <div class="scroller"/> 
             </div>            
             <div id="event_attribute_label"
-                 class="wrapper_lower_label label-like">Event attributes</div>
+                 class="wrapper_lower_label label-like">事件属性</div>
             <div id="event_attributes" class="scroll_wrapper_lower">
               <div class="scroller small-buttons"/> 
             </div>
@@ -765,7 +765,7 @@
         following features:
         <ul>
           <li><b>Collection</b>: collection browser</li>
-          <li><b>Data</b>: export annotation data</li>
+          <li><b>Data1</b>: export annotation data</li>
           <li><b>Search</b>: search current document or collection</li>
           <li><b>Options</b>: system configuration options</li>
           <li><b>Login</b>: log in for editing</li>
