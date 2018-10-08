@@ -6,6 +6,11 @@ brat中分了4类标注实体：entity，event，relation，attribute。
 在annotation.conf文件中配置
 
 实体的颜色在visual.conf中
+
+搜索引擎配置在tools.conf中
+
+用户名和密码的配置在config.py中，可以配置多个用户名和密码
+
 ## 启动
 首先, `sh install.sh`初始化环境并设置用户名和密码
 启动服务器：python standalone.py [port]

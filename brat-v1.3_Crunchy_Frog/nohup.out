@@ -2,3 +2,18 @@ Serving brat at http://127.0.0.1:8002
 Serving brat at http://127.0.0.1:8002
 Serving brat at http://127.0.0.1:8002
 10.2.98.112 - - [23/Sep/2018 11:30:09] code 404, message File not found
+Serving brat at http://127.0.0.1:8002
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/SocketServer.py", line 568, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib64/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib64/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib64/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib64/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib64/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
