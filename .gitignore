@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+brat-v1.3_Crunchy_Frog/data/*
+*.out
 # C extensions
 *.so
 

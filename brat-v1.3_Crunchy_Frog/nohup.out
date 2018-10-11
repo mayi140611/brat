@@ -17,3 +17,318 @@ Traceback (most recent call last):
   File "/usr/lib64/python2.7/socket.py", line 303, in flush
     self._sock.sendall(view[write_offset:write_offset+buffer_size])
 error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "server/src/server.py", line 322, in serve
+    return _safe_serve(params, client_ip, client_hostname, cookie_data)
+  File "server/src/server.py", line 204, in _safe_serve
+    err_str = str(e)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+
