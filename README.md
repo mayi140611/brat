@@ -1,6 +1,6 @@
 # brat
 brat标注工具
-
+http://brat.nlplab.org/
 ## 配置brat
 brat中分了4类标注实体：entity，event，relation，attribute。
 在annotation.conf文件中配置
